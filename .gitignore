@@ -1,10 +1,10 @@
-# Entorno virtual y cachés (NO subir al repositorio)
+
 env/
 venv/
 .venv/
 __pycache__/
 *.pyc
-# Credenciales/configuración local
+
 .env
-# Base de datos local
+
 instance/*.db
