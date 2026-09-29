@@ -1,0 +1,14 @@
+COD_CLIENTE,NOMBRE_CLIENTE,GENERO,RANGO_EDAD,CIUDAD,SEGMENTO
+CLI0081,Sofía Herrera Duque,F,26-35,Bogotá,Nuevo
+CLI0082,Camilo Arango Salazar,M,36-45,Medellín,Regular
+ cli0083 ,Valentina Ospina Prieto, f ,18-25,Cali,nuevo
+CLI0084,Andrés Felipe Quintero,M,46-55,Barranquilla,VIP
+CLI0085,Daniela Rojas Cárdenas,F,26-35,Bucaramanga,vip
+CLI0086,Mateo Bernal Mejía,M,18-25,Bogotá,Nuevo
+CLI0087,Isabella Cortés Londoño,F,56-65,Cali,Regular
+CLI0088,Tomás  Villamizar Neira,M,36-45,Bogotá,Regular
+CLI0005,Nicolás Rodríguez Vargas,M,56-65,Medellín,Regular
+CLI0003,Natalia Castro Rodríguez,F,46-55,Bogotá,VIP
+CLI0010,Lucía Gómez Ríos,F,56-65,Barranquilla,Regular
+CLI0084,Andrés Felipe Quintero,M,46-55,Barranquilla,VIP
+CLI0089,Pedro Pablo Ruiz,X,26-35,Bogotá,Nuevo
